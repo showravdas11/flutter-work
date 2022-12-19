@@ -28,3 +28,20 @@
 //         ));
 //   }
 // }
+
+
+// Stack(
+//                 alignment: Alignment.center,
+//                 children: <Widget>[
+//                   Container(
+//                     height: 200,
+//                     width: 300,
+//                     color: Color.fromARGB(255, 44, 111, 46),
+//                   ),
+//                   Positioned(
+//                       child: CircleAvatar(
+//                     backgroundColor: Colors.red,
+//                     radius: 50,
+//                   ))
+//                 ],
+//               ),
